@@ -1,0 +1,11 @@
+{
+  "name": "coffee-shop-breakfast",
+  "version": "1.0.0",
+  "description": "Bootcamp Coffee Shop Breakfast Exercise",
+  "main": "coffee-shop.js",
+  "scripts": {
+    "test": "node .github/autograder.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
